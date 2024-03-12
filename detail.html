@@ -16,148 +16,117 @@
 </head>
 
 <body>
-
-    <!------ header section---->
-    <div>
+    <section">
         <nav>
             <a href="index.html"><img src="images/myLogo.png"></a>
-            <div class="nav-detail" id="navLinks">
+            <div class="nav-links" id="navLinks">
                 <i class="fa fa-times" onclick="hidemenu()"></i>
                 <ul>
-                    <li><a href="index.html">HOME</a></li>
-                    <li><a href="#rank">RANK</a></li>
-                    <li><a href="#contact-us">CONTACT US</a></li>
-                    <li><a href="#about-us">ABOUT US</a></li>
+                    <li><a href="index.html" style="color: black;">HOME</a></li>
+                    <li><a href="#contact-us" style="color: black;">CONTACT US</a></li>
+                    <li><a href="#about-us" style="color: black;">ABOUT US</a></li>
                 </ul>
             </div>
-            <i class="fa fa-bars" onclick="showmenu()"></i>
+            <i class="fa fa-bars" onclick="showmenu()" style="color: black;"></i>
         </nav>
-    </div>
-    <section>
+        </section>
 
-
-    </section>
-
-
-    <section>
-        <!-- <div class="detail">
-            <table>
-                <thead>
-                    <tr>
-                        <td class="image"><img src=""></td>
-                        <td>
-                            <h1 class="university"></h1>
-                        </td>
-                        <td>
-                            <div class="description"></div>
-                        </td>
-                    </tr>
-                    <tr>
-
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>Overwrite</tr>
-                    <tr>
-                        <p class="description"> </p>
-                    </tr>
-                </tbody>
-            </table>
-        </div> -->
-        <div class="container">
-            <div class="detail">
-                <table>
-                    <thead>
-                        <tr>
-                            <th class="image"><img src=""></th>
-                            <th>
-                                <h1 class="university"></h1>
-                            </th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>
-                                <h2>Overwrite</h2>
-                            </td>
-                            <td></td>
-                        </tr>
-                        <tr>
-                            <td style="text-align: center;">Country Rank <h4 class="rank" style="font-size: 24pt;"></h4>
-                            </td>
-                            <td>
-                                <p class="description"></p>
-                            </td>
-                        </tr>
-                    </tbody>
-                </table>
+        <section>
+            <div class="container">
+                <div class="detail">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th class="image"><img src=""></th>
+                                <th>
+                                    <h1 class="university"></h1>
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <h2>Overwrite</h2>
+                                </td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center;">Country Rank <h4 class="rank" style="font-size: 24pt;">
+                                    </h4>
+                                </td>
+                                <td>
+                                    <p class="description"></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
-        </div>
-    </section>
+        </section>
 
 
-    <!-- call to action-->
+        <!-- call to action-->
 
-    <section class="cta" id="contact-us">
-        <h1>Thank you so much for visiting our website.</h1>
-        <a href="https://www.facebook.com/profile.php?id=100048933399577" class="hero-btn">Contact Us</a>
-    </section>
-
-
-    <!-- Footer -->
-
-    <section class="footer" id="about-us">
-        <h4>About us</h4>
-        <p>Hi there, My name is Yorn Samnang. I'm 22 years old. I live at Chaim Chau, Phnom Penh. <br> I had been
-            worked internship as a Mobile App developer(Flutter). I'm a student studying at Setec Instutite with
-            <br>major Management Information System(MIS). Currently I'm studying in year 3.
-        </p>
-
-        <div class="icons">
-            <a href="https://www.facebook.com/profile.php?id=100048933399577"><i class="fa fa-facebook"></i></a>
-            <a href="https://twitter.com/samnangyorn72"><i class="fa fa-twitter"></i></a>
-            <a href="https://www.instagram.com/nang.2.7/"><i class="fa fa-instagram"></i></a>
-            <a href="https://www.linkedin.com/in/samnang-yorn-ba1717250/"><i class="fa fa-linkedin"></i></a>
-        </div>
-        <p>Made by Yorn Samnang </p>
-    </section>
+        <section class="cta" id="contact-us">
+            <h1>Thank you so much for visiting our website.</h1>
+            <a href="https://www.facebook.com/profile.php?id=100048933399577" class="hero-btn">Contact Us</a>
+        </section>
 
 
-    <script>
-        let lists = null;
-        fetch('list.json')
-            .then(response => response.json())
-            .then(data => {
-                lists = data;
-                showDetail();
-            })
+        <!-- Footer -->
 
-        function showDetail() {
-            // remove datas default from HTML
-            let detail = document.querySelector('.detail');
-            let listProduct = document.querySelector('.listProduct');
-            let listId = new URLSearchParams(window.location.search).get('id');
-            let thisList = lists.filter(value => value.id == listId)[0];
-            //if there is no product with id = productId => return to home page
-            if (!thisList) {
-                window.location.href = "/";
+        <section class="footer" id="about-us">
+            <h4>About us</h4>
+            <p>Hi there, My name is Yorn Samnang. I'm 22 years old. I live at Chaim Chau, Phnom Penh. <br> I had been
+                worked internship as a Mobile App developer(Flutter). I'm a student studying at Setec Instutite with
+                <br>major Management Information System(MIS). Currently I'm studying in year 3.
+            </p>
+
+            <div class="icons">
+                <a href="https://www.facebook.com/profile.php?id=100048933399577"><i class="fa fa-facebook"></i></a>
+                <a href="https://twitter.com/samnangyorn72"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.instagram.com/nang.2.7/"><i class="fa fa-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/samnang-yorn-ba1717250/"><i class="fa fa-linkedin"></i></a>
+            </div>
+            <p>Made by Yorn Samnang </p>
+        </section>
+
+
+        <script>
+            let lists = null;
+            fetch('list.json')
+                .then(response => response.json())
+                .then(data => {
+                    lists = data;
+                    showDetail();
+                })
+
+            function showDetail() {
+                // remove datas default from HTML
+                let detail = document.querySelector('.detail');
+                let listProduct = document.querySelector('.listProduct');
+                let listId = new URLSearchParams(window.location.search).get('id');
+                let thisList = lists.filter(value => value.id == listId)[0];
+                //if there is no product with id = productId => return to home page
+                if (!thisList) {
+                    window.location.href = "/";
+                }
+
+                detail.querySelector('.image img').src = thisList.img;
+                detail.querySelector('.university').innerText = thisList.university;
+                detail.querySelector('.rank').innerText = thisList.rank;
+                detail.querySelector('.description').innerText = thisList.description;
             }
 
-            detail.querySelector('.image img').src = thisList.img;
-            detail.querySelector('.university').innerText = thisList.university;
-            detail.querySelector('.rank').innerText = thisList.rank;
-            detail.querySelector('.description').innerText = thisList.description;
-        }
 
-
-        var navLinks = document.getElementById("navLinks");
-        function showmenu() {
-            navLinks.style.right = "0";
-        }
-        function hidemenu() {
-            navLinks.style.right = "-200px";
-        }
-    </script>
+            var navLinks = document.getElementById("navLinks");
+            function showmenu() {
+                navLinks.style.right = "0";
+            }
+            function hidemenu() {
+                navLinks.style.right = "-200px";
+            }
+        </script>
 </body>
 
 </html>
