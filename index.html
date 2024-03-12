@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University Website Design</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<body>
+
+    <!------ header section---->
+
+    <section class="header">
+        <nav>
+            <a href="index.html"><img src="images/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+                <i class="fa fa-times" onclick="hidemenu()"></i>
+                <ul>
+                    <li><a href="index.html">HOME</a></li>
+                    <li><a href="#rank">RANK</a></li>
+                    <li><a href="#contact-us">CONTACT US</a></li>
+                    <li><a href="#about-us">ABOUT US</a></li>
+                </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showmenu()"></i>
+        </nav>
+
+        <div class="text-box">
+            <h1>Universities in Cambodia</h1>
+            <h2>- Rankings & Reviews -</h2>
+            <p>“What are the most popular Colleges and Universities in Cambodia?” <br> “2024 Cambodian University
+                Ranking of 49 Cambodian higher-education institutions”</p>
+            <!-- <a href="" class="hero-btn">Visit us to know more</a> -->
+        </div>
+
+    </section>
+
+
+    <!---- course section-->
+
+    <section class="course">
+        <h1>2024 Cambodian University Ranking</h1>
+        <p>
+        <div class="course-detail">What are the most popular Colleges and Universities in Cambodia? uniRank answers this
+            question by
+            publishing
+            the 2024 Cambodian University Ranking of 49 Cambodian higher-education institutions meeting the following
+            uniRank selection criteria:</div> <br>
+        <div class="course-list">
+            <li>being chartered, licensed or accredited by the appropriate Cambodian higher education-related
+                organization</li>
+            <li>offering at least three-year bachelor's degrees or postgraduate master's or doctoral degrees</li>
+            <li>delivering courses predominantly in a traditional, non-distance education format</li>
+        </div>
+        <div class="course-detail">uniRank aims to provide a non-academic League Table of the top Cambodian Universities
+            and Colleges based on
+            valid, unbiased and non-influenceable web metrics provided by independent web intelligence sources rather
+            than data submitted by the Universities themselves.</div>
+        </p>
+
+        <div class="container" id="rank">
+            <table id="rankingTable">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>University</th>
+                        <th>Location</th>
+
+                    </tr>
+                </thead>
+                <tbody class="listUniversity">
+
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+    <!-- call to action-->
+
+    <section class="cta" id="contact-us">
+        <h1>Thank you so much for visiting our website.</h1>
+        <a href="https://www.facebook.com/profile.php?id=100048933399577" class="hero-btn">Contact Us</a>
+    </section>
+
+
+    <!-- Footer -->
+
+    <section class="footer" id="about-us">
+        <h4>About us</h4>
+        <p>Hi there, My name is Yorn Samnang. I'm 22 years old. I live at Chaim Chau, Phnom Penh. <br> I had been
+            worked internship as a Mobile App developer(Flutter). I'm a student studying at Setec Instutite with
+            <br>major Management Information System(MIS). Currently I'm studying in year 3.
+        </p>
+
+        <div class="icons">
+            <a href="https://www.facebook.com/profile.php?id=100048933399577"><i class="fa fa-facebook"></i></a>
+            <a href="https://twitter.com/samnangyorn72"><i class="fa fa-twitter"></i></a>
+            <a href="https://www.instagram.com/nang.2.7/"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.linkedin.com/in/samnang-yorn-ba1717250/"><i class="fa fa-linkedin"></i></a>
+        </div>
+        <p>Made by Yorn Samnang </p>
+    </section>
+
+
+
+    <!-------------(header section) javascript for toggle menu---->
+    <script src="script.js"></script>
+    <script>
+
+        var navLinks = document.getElementById("navLinks");
+        function showmenu() {
+            navLinks.style.right = "0";
+        }
+        function hidemenu() {
+            navLinks.style.right = "-200px";
+        }
+
+    </script>
+
+</body>
+
+</html>

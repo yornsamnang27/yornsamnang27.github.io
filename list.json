@@ -1,0 +1,266 @@
+[
+    {
+        "id": 1,
+        "rank": "1",
+        "university": "Royal University of Phnom Penh",
+        "location": "Phnom Penh",
+        "img": "/images/rupp.png",
+        "description": "Founded in 1960, the Royal University of Phnom Penh is a non-profit public higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Royal University of Phnom Penh (RUPP) is a large-sized (uniRank enrollment range: 10,000-14,999 students) coeducational Cambodian higher education institution. Royal University of Phnom Penh (RUPP) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 64-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 0-9% making this Cambodian higher education organization an extremely selective institution. International students are welcome to apply for enrollment. RUPP also provides several academic and non-academic facilities and services to students including a library, sports facilities, study abroad and exchange programs, online courses and distance learning opportunities, as well as administrative services."
+    },
+    {
+        "id": 2,
+        "rank": "2",
+        "university": "Institute of Technology of Cambodia",
+        "location": "Phnom Penh",
+        "img": "/images/itc.png",
+        "description": "Founded in 1964, the Institute of Technology of Cambodia is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Institute of Technology of Cambodia (ITC) is a coeducational Cambodian higher education institution. Institute of Technology of Cambodia (ITC) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 59-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 20-29% making this Cambodian higher education organization a very selective institution. International students are welcome to apply for enrollment. ITC also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 3,
+        "rank": "3",
+        "university": "Paññasastra University of Cambodia",
+        "location": "Phnom Penh",
+        "img": "/images/puc.png",
+        "description": "Established in 2000, the Paññasastra University of Cambodia is a non-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). This institution also has a branch campus in Battambang and Siem Reap. Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Paññasastra University of Cambodia (PUC) is a large-sized (uniRank enrollment range: 20,000-24,999 students) coeducational Cambodian higher education institution. Paññasastra University of Cambodia (PUC) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 24-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 30-39% making this Cambodian higher education organization a very selective institution. International applicants are eligible to apply for enrollment. PUC also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 4,
+        "rank": "4",
+        "university": "Build Bright University",
+        "location": "Phnom Penh",
+        "img": "/images/bbu.png",
+        "description": "Founded in 2000, the Build Bright University is a non-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). This institution also has branch campuses in Siem Reap, Preah Sihanouk, Battambang, Buntiey Meanchey, Ratanakiri, Takeo and Stung treng. Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Build Bright University (BBU) is a large-sized (uniRank enrollment range: 15,000-19,999 students) coeducational Cambodian higher education institution. Build Bright University (BBU) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 24-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 50-59% making this Cambodian higher education organization an averagely selective institution. International students are welcome to apply for enrollment. BBU also provides several academic and non-academic facilities and services to students including a library, sports facilities, as well as administrative services."
+    },
+    {
+        "id": 5,
+        "rank": "5",
+        "university": "The University of Cambodia",
+        "location": "Phnom Penh",
+        "img": "/images/uc.png",
+        "description": "Founded in 2003, The University of Cambodia is a non-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, The University of Cambodia (UC) is a small-sized (uniRank enrollment range: 4,000-4,999 students) coeducational Cambodian higher education institution. The University of Cambodia (UC) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 20-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. International students are welcome to apply for enrollment. UC also provides several academic and non-academic facilities and services to students including a library, sports facilities, financial aids and/or scholarships, study abroad and exchange programs, online courses and distance learning opportunities, as well as administrative services."
+    },
+    {
+        "id": 6,
+        "rank": "6",
+        "university": "University of Puthisastra",
+        "location": "Phnom Penh",
+        "img": "/images/up.png",
+        "description": "Founded in 2007, the University of Puthisastra is a private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, University of Puthisastra (UP) is a very small-sized (uniRank enrollment range: 1,000-1,999 students) coeducational Cambodian higher education institution. University of Puthisastra (UP) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees and master's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 16-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. UP also provides several academic and non-academic facilities and services to students including a library, sports facilities, financial aids and/or scholarships, study abroad and exchange programs, as well as administrative services."
+    },
+    {
+        "id": 7,
+        "rank": "7",
+        "university": "Royal University of Agriculture",
+        "location": "Phnom Penh",
+        "img": "/images/rua.png",
+        "description": "Founded in 1964, the Royal University of Agriculture is a for-profit public higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Agriculture, Forestry and Fisheries of Cambodia, Royal University of Agriculture (RUA) is a very small-sized (uniRank enrollment range: 250-499 students) coeducational Cambodian higher education institution. Royal University of Agriculture (RUA) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 60-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 80-89% making this Cambodian higher education organization a least selective institution. International students are welcome to apply for enrollment. RUA also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, study abroad and exchange programs, online courses and distance learning opportunities, as well as administrative services."
+    },
+    {
+        "id": 8,
+        "rank": "8",
+        "university": "Royal University of Fine Arts",
+        "location": "Phnom Penh",
+        "img": "/images/rufa.png",
+        "description": "Established in 1979, the Royal University of Fine Arts is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Culture and Fine Arts of Cambodia, Royal University of Fine Arts (RUFA) is a coeducational Cambodian higher education institution. Royal University of Fine Arts (RUFA) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. RUFA also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 9,
+        "rank": "9",
+        "university": "École Royale d'Administration",
+        "location": "Phnom Penh",
+        "img": "/images/era.png",
+        "description": "Founded in 1956, the École Royale d'Administration (Royal School of Administration) is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, École Royale d'Administration (ERA) is a coeducational Cambodian higher education institution. École Royale d'Administration (ERA) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. ERA also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 10,
+        "rank": "10",
+        "university": "Royal University of Law and Economics",
+        "location": "Phnom Penh",
+        "img": "/images/rule.png",
+        "description": "Established in 2003, the Royal University of Law and Economics is a non-profit public higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Royal University of Law and Economics (RULE) is a small-sized (uniRank enrollment range: 3,000-3,999 students) coeducational Cambodian higher education institution. Royal University of Law and Economics (RULE) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 21-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 40-49% making this Cambodian higher education organization an averagely selective institution. RULE also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, study abroad and exchange programs, as well as administrative services."
+    },
+    {
+        "id": 11,
+        "rank": "11",
+        "university": "Royal Academy of Cambodia",
+        "location": "Phnom Penh",
+        "img": "/images/rac.png",
+        "description": "Established in 1965, the Royal Academy of Cambodia is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Royal Academy of Cambodia (RAC) is a coeducational Cambodian higher education institution. Royal Academy of Cambodia (RAC) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. RAC also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 12,
+        "rank": "12",
+        "university": "Paragon International University",
+        "location": "Phnom Penh",
+        "img": "/images/paragon.png",
+        "description": "Established in 2010, the Paragon International University is a non-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Paragon International University (PIU) is a very small-sized (uniRank enrollment range: 500-999 students) coeducational Cambodian higher education institution. Paragon International University (PIU) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 14-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 20-29% making this Cambodian higher education organization a very selective institution. International applicants are eligible to apply for enrollment. PIU also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, financial aids and/or scholarships, study abroad and exchange programs, as well as administrative services."
+    },
+    {
+        "id": 13,
+        "rank": "13",
+        "university": "National University of Battambang",
+        "location": "Battambang",
+        "img": "/images/nub.png",
+        "description": "Founded in 2007, the National University of Battambang is a non-profit public higher education institution located in the small city of Battambang (population range of 50,000-249,999 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, National University of Battambang (NUBB) is a coeducational Cambodian higher education institution. National University of Battambang (NUBB) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. NUBB also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 14,
+        "rank": "14",
+        "university": "National University of Management",
+        "location": "Phnom Penh",
+        "img": "/images/rule.png",
+        "description": "Established in 1983, the National University of Management is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, National University of Management (NUM) is a coeducational Cambodian higher education institution. National University of Management (NUM) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. NUM also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 15,
+        "rank": "15",
+        "university": "Norton University",
+        "location": "Phnom Penh",
+        "img": "/images/nu.png",
+        "description": "Established in 1997, the Norton University is a private higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Norton University (NU) is a coeducational Cambodian higher education institution. Norton University (NU) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. NU also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 16,
+        "rank": "16",
+        "university": "American University of Phnom Penh",
+        "location": "Phnom Penh",
+        "img": "/images/aupp.png",
+        "description": "Founded in 2013, the American University of Phnom Penh is a non-profit private higher education institution located in the suburban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, American University of Phnom Penh (AUPP) is a very small-sized (uniRank enrollment range: 250-499 students) coeducational Cambodian higher education institution. American University of Phnom Penh (AUPP) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees and master's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 10-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 70-79% making this Cambodian higher education organization a moderately selective institution. International students are welcome to apply for enrollment. AUPP also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, financial aids and/or scholarships, study abroad and exchange programs, online courses and distance learning opportunities, as well as administrative services."
+    },
+    {
+        "id": 17,
+        "rank": "17",
+        "university": "Université des Sciences de la Santé",
+        "location": "Phnom Penh",
+        "img": "/images/uds.png",
+        "description": "Founded in 1946, the Université des Sciences de la Santé (University of Health Sciences, Cambodia) is a non-profit public higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Health of Cambodia, Université des Sciences de la Santé (UHS) is a medium-sized (uniRank enrollment range: 6,000-6,999 students) coeducational Cambodian higher education institution. Université des Sciences de la Santé (UHS) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 78-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 20-29% making this Cambodian higher education organization a very selective institution. UHS also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 18,
+        "rank": "18",
+        "university": "Cambodian Mekong University",
+        "location": "Phnom Penh",
+        "img": "/images/cmu.png",
+        "description": "Established in 2003, the Cambodian Mekong University is a non-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Cambodian Mekong University (CMU) is a small-sized (uniRank enrollment range: 3,000-3,999 students) coeducational Cambodian higher education institution. Cambodian Mekong University (CMU) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 21-year-old Cambodian higher-education institution has a selective admission policy based on students' past academic records and grades. The acceptance rate range is 20-29% making this Cambodian higher education organization a very selective institution. International applicants are eligible to apply for enrollment. CMU also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, study abroad and exchange programs, online courses and distance learning opportunities, as well as administrative services."
+    },
+    {
+        "id": 19,
+        "rank": "19",
+        "university": "International University",
+        "location": "Phnom Penh",
+        "img": "/images/iu.png",
+        "description": "Founded in 2002, the International University is a private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, International University (IU) is a coeducational Cambodian higher education institution. International University (IU) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. IU also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 20,
+        "rank": "20",
+        "university": "Phnom Penh International University",
+        "location": "Phnom Penh",
+        "img": "/images/ppiu.png",
+        "description": "Established in 2002, the Phnom Penh International University is a for-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Phnom Penh International University (PPIU) is a small-sized (uniRank enrollment range: 3,000-3,999 students) coeducational Cambodian higher education institution. Phnom Penh International University (PPIU) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 22-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 80-89% making this Cambodian higher education organization a least selective institution. International applicants are eligible to apply for enrollment. PPIU also provides several academic and non-academic facilities and services to students including a library, financial aids and/or scholarships, study abroad and exchange programs, as well as administrative services."
+    },
+    {
+        "id": 21,
+        "rank": "21",
+        "university": "National Polytechnic Institute of Cambodia",
+        "location": "Phnom Penh",
+        "img": "/images/npic.png",
+        "description": "Founded in 2005, the National Polytechnic Institute of Cambodia is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, National Polytechnic Institute of Cambodia (NPIC) is a coeducational Cambodian higher education institution. National Polytechnic Institute of Cambodia (NPIC) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. NPIC also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 22,
+        "rank": "22",
+        "university": "Asia Euro University",
+        "location": "Phnom Penh",
+        "img": "/images/aeu.png",
+        "description": "Founded in 2003, the Asia Euro University is a private higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Asia Euro University (AEU) is a coeducational Cambodian higher education institution. Asia Euro University (AEU) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. AEU also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 23,
+        "rank": "23",
+        "university": "CamEd Business School",
+        "location": "Phnom Penh",
+        "img": "/images/camed.png",
+        "description": "Established in 2003, the CamEd Business School is a private higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, CamEd Business School (CamEd) is a coeducational Cambodian higher education institution. CamEd Business School (CamEd) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. CamEd also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 24,
+        "rank": "24",
+        "university": "IIC University of Technology",
+        "location": "Phnom Penh",
+        "img": "/images/iic.png",
+        "description": "Founded in 1999, the IIC University of Technology is a for-profit private higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, IIC University of Technology (IIC) is a very small-sized (uniRank enrollment range: 1,000-1,999 students) coeducational Cambodian higher education institution. IIC University of Technology (IIC) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees, master's degrees and doctorate degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 25-year-old Cambodian higher-education institution has a selective admission policy based on students' past academic records and grades. The acceptance rate range is 90-99% making this Cambodian higher education organization a least selective institution. International students are welcome to apply for enrollment. IIC also provides several academic and non-academic facilities and services to students including study abroad and exchange programs, online courses and distance learning opportunities, as well as administrative services."
+    },
+    {
+        "id": 25,
+        "rank": "25",
+        "university": "Svay Rieng University",
+        "location": "Svay Rieng",
+        "img": "/images/sru.png",
+        "description": "Established in 2005, the Svay Rieng University is a non-profit public higher education institution located in the urban setting of the large town of Svay Rieng (population range of 10,000-49,999 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Svay Rieng University (SRU) is a small-sized (uniRank enrollment range: 2,000-2,999 students) coeducational Cambodian higher education institution. Svay Rieng University (SRU) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation) and bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 19-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. SRU also provides several academic and non-academic facilities and services to students including a library, financial aids and/or scholarships, as well as administrative services."
+    },
+    {
+        "id": 26,
+        "rank": "26",
+        "university": "University of Management and Economics",
+        "location": "Battambang",
+        "img": "/images/ume.png",
+        "description": "Founded in 2000, the University of Management and Economics is a private higher education institution located in the small city of Battambang (population range of 50,000-249,999 inhabitants). This institution also has branch campuses in Pursat, Kampot, Preah Sihanouk, Kampong Cham, Banteay Meanchey, Koh Kong and Kratie. Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, University of Management and Economics (UME) is a coeducational Cambodian higher education institution. University of Management and Economics (UME) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. UME also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 27,
+        "rank": "27",
+        "university": "Angkor University",
+        "location": "Siem Reap",
+        "img": "/images/au.png",
+        "description": "Founded in 2004, the Angkor University is a for-profit private higher education institution located in the suburban setting of the small city of Siem Reap (population range of 50,000-249,999 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Angkor University (AU) is a very small-sized (uniRank enrollment range: 1,000-1,999 students) coeducational Cambodian higher education institution. Angkor University (AU) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees and master's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 20-year-old Cambodian higher-education institution has a selective admission policy based on entrance examinations and students' past academic records and grades. The acceptance rate range is 40-49% making this Cambodian higher education organization an averagely selective institution. International students are welcome to apply for enrollment. AU also provides several academic and non-academic facilities and services to students including a library, housing, sports facilities, financial aids and/or scholarships, study abroad and exchange programs, as well as administrative services."
+    },
+    {
+        "id": 28,
+        "rank": "28",
+        "university": "Economics and Finance Institute",
+        "location": "Phnom Penh",
+        "img": "/images/efi.png",
+        "description": "Founded in 2002, the Economics and Finance Institute is a non-profit public higher education institution located in the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Economics and Finance Institute (EFI) is a coeducational Cambodian higher education institution. Economics and Finance Institute (EFI) offers courses and programs leading to officially recognized higher education degrees such as bachelor's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. EFI also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 29,
+        "rank": "29",
+        "university": "Chea Sim University of Kamchaymear",
+        "location": "Kamchay Mear District",
+        "img": "/images/kamchaymear.png",
+        "description": "Founded in 1993, the Chea Sim University of Kamchaymear is a non-profit public higher education institution located in the small city of Kamchay Mear District (population range of 50,000-249,999 inhabitants), Prey Veng. This institution also has a branch campus in Prey Veng and Kampong Cham. Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Chea Sim University of Kamchaymear (CSUK) is a coeducational Cambodian higher education institution. Chea Sim University of Kamchaymear (CSUK) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. CSUK also provides several academic and non-academic facilities and services to students including a library, study abroad and exchange programs, as well as administrative services."
+    },
+    {
+        "id": 30,
+        "rank": "30",
+        "university": "University of Southeast Asia",
+        "location": "Siem Reap",
+        "img": "/images/usea.png",
+        "description": "Established in 2006, the University of Southeast Asia is a private higher education institution located in the small city of Siem Reap (population range of 50,000-249,999 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, University of Southeast Asia (USEA) is a coeducational Cambodian higher education institution. University of Southeast Asia (USEA) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. USEA also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 31,
+        "rank": "31",
+        "university": "Prek Leap National Institute of Agriculture",
+        "location": "Phnom Penh",
+        "img": "/images/plnia.png",
+        "description": "Established in 1951, the Prek Leap National Institute of Agriculture is a non-profit public higher education institution located in the urban setting of the metropolis of Phnom Penh (population range of 1,000,000-5,000,000 inhabitants). Officially recognized by the Ministry of Agriculture, Forestry and Fisheries of Cambodia, Prek Leap National Institute of Agriculture (NIA) is a small-sized (uniRank enrollment range: 2,000-2,999 students) coeducational Cambodian higher education institution. Prek Leap National Institute of Agriculture (NIA) offers courses and programs leading to officially recognized higher education degrees such as pre-bachelor's degrees (i.e. certificates, diplomas, associate or foundation), bachelor's degrees and master's degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. This 73-year-old Cambodian higher-education institution has a selective admission policy based on students' past academic records and grades. The acceptance rate range is 50-59% making this Cambodian higher education organization an averagely selective institution. NIA also provides several academic and non-academic facilities and services to students including a library, sports facilities, as well as administrative services."
+    },
+    {
+        "id": 32,
+        "rank": "32",
+        "university": "National Meanchey University",
+        "location": "Sisophon",
+        "img": "/images/nmu.png",
+        "description": "Established in 2007, the National Meanchey University is a non-profit public higher education institution located in the small city of Sisophon (population range of 50,000-249,999 inhabitants), Banteay Meanchey. Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, National Meanchey University (NMU) is a coeducational Cambodian higher education institution. National Meanchey University (NMU) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. NMU also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    },
+    {
+        "id": 33,
+        "rank": "33",
+        "university": "Life University, Cambodia",
+        "location": "Sihanoukville",
+        "img": "/images/life.png",
+        "description": "Founded in 2007, the Life University, Cambodia is a private higher education institution located in the small city of Sihanoukville (population range of 50,000-249,999 inhabitants). Officially recognized by the Ministry of Education, Youth and Sports of Cambodia, Life University, Cambodia (LU) is a coeducational Cambodian higher education institution. Life University, Cambodia (LU) offers courses and programs leading to officially recognized higher education degrees in several areas of study. See the uniRank degree levels and areas of study table below for further details. LU also provides several academic and non-academic facilities and services to students including a library, as well as administrative services."
+    }
+]
